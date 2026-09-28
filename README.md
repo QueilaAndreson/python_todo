@@ -72,6 +72,8 @@ todo-api/
 └── requirements.txt
 ```
 
+Love u quiela
+
 ## Roadmap
 - [ ] Add authentication (JWT)
 - [ ] Add an LLM-powered endpoint (e.g. auto-generate subtasks from a todo title using RAG)
